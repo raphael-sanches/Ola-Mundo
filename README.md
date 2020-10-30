@@ -1,4 +1,4 @@
 # Olá Mundo!
  Primeiro Repositório do Curso GIT/GITHUB
 
-- Olá Mundo, como você?
+- Olá Mundo, como vai você?
