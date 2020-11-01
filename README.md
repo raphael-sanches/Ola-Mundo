@@ -1,4 +1,2 @@
-# Olá Mundo!
- Primeiro Repositório do Curso GIT/GITHUB
+# Initial page
 
-- Olá Mundo, como vai você?
